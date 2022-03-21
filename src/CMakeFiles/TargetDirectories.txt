@@ -1,0 +1,5 @@
+/home/metin/Documents/COMP310/othello-project-metaksu/src/CMakeFiles/rebuild_cache.dir
+/home/metin/Documents/COMP310/othello-project-metaksu/src/CMakeFiles/edit_cache.dir
+/home/metin/Documents/COMP310/othello-project-metaksu/src/CMakeFiles/othello_npc_tests.dir
+/home/metin/Documents/COMP310/othello-project-metaksu/src/CMakeFiles/othello_app.dir
+/home/metin/Documents/COMP310/othello-project-metaksu/src/CMakeFiles/othello_board_tests.dir
